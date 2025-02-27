@@ -1,6 +1,8 @@
 # shadcn/ui monorepo template
 
-This template is for creating a monorepo with shadcn/ui.
+This repo is only to lock the current version so that it can be shown as an example on how to use AI Chatbot(like Claude) to pair learning new things. You don't need to run this code, this just serve as a example to how do I learn new things. Refer to [tutorial](?) on how to use it.
+
+This template is for creating a monorepo with shadcn/ui, created by [shadcn-ui](https://github.com/shadcn-ui) team.
 
 ## Usage
 
